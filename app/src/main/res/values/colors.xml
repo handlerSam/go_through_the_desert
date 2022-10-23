@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorSand">#FF9800</color>
+    <color name="colorVillage">#8BC34A</color>
+    <color name="colorMine">#8353DA</color>
+    <color name="colorSandChoose">#FF5722</color>
+    <color name="colorVillageChoose">#4CAF50</color>
+    <color name="colorMineChoose">#6641A8</color>
+    <color name="colorGreen">#00FF0A</color>
+    <color name="colorRed">#FF0057</color>
+    <color name="colorBlack">#000000</color>
+</resources>
